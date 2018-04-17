@@ -7,5 +7,13 @@ class Person
     @name
   end
 
+  def job=(job)
+    @jon = job
+  end
+
+  def job
+    @job
+  end
+
 
 end
